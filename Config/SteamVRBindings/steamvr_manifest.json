@@ -86,6 +86,22 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/Crouch",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/EnterSwitchC",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Move_Y axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Move_X axis",
+			"type": "vector1"
+		},
+		{
 			"name": "/actions/main/in/Move_X,Move_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -210,6 +226,10 @@
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/in/Jump": "Jump",
 			"/actions/main/in/ResetVR": "ResetVR",
+			"/actions/main/in/Crouch": "Crouch",
+			"/actions/main/in/EnterSwitchC": "EnterSwitchC",
+			"/actions/main/in/Move_Y axis": "Move_Y",
+			"/actions/main/in/Move_X axis": "Move_X",
 			"/actions/main/in/Move_X,Move_Y X Y_axis2d": "Move",
 			"/actions/main/in/Turn_X,Turn_Y X Y_axis2d": "Turn",
 			"/actions/main": "Main Game Actions"
